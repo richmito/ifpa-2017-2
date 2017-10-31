@@ -1,0 +1,95 @@
+body {
+    font-family: Tahoma; 
+    color: #4a4a4a 
+}
+fieldset {
+    border: solid 1px cadetblue; 
+    border-radius: 4px
+}
+fieldset legend {
+    font-size: 21px; 
+    color: cadetblue
+}
+input[type="text"] {
+    height: 36px; 
+    width: 100%; 
+    border: solid 1px #c6c6c6; 
+    border-radius: 4px    
+}
+input[type="submit"] {
+    height: 42px; 
+    background-color: #75f777; 
+    border-width: 0; 
+    border-radius: 4px; 
+    color: #fff; 
+    padding: 8px 24px; 
+    font-family: Tahoma; 
+    font-size: 18px; 
+    float: right; 
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+table {
+    border: 1px solid #FFFFFF;
+    width: 99%;
+    text-align: justify;
+    border-collapse: collapse;
+    margin: 14px 4px;
+}
+table td, table th {
+    border: 1px solid #FFFFFF;
+    padding: 6px;
+}
+table tbody td {
+    font-size: 13px;
+}
+table tbody td a img {
+    width: 19px;
+    float: right;
+    margin-right: 18px;
+}
+table tr:nth-child(even) {
+    background: #D0E4F5;
+}
+table thead {
+    background: #0B6FA4;
+    border-bottom: 5px solid #FFFFFF;
+}
+table thead th {
+    font-size: 17px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    border-left: 2px solid #FFFFFF;
+}
+table thead th:first-child {
+    border-left: none;
+}
+a.button {
+    float: right;
+    margin:6px;
+    padding: 12px 16px;
+    background-color: #75f777;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.main {
+    margin: 20px 18px
+}
+.main .content { 
+    width: 50%
+}
+.main .left {
+    float: left
+}
+.main .right {
+    float: right
+}
+.main .form-content {
+    padding: 18px 16px
+}
+.main .grupo {
+    margin-bottom: 10px
+}
