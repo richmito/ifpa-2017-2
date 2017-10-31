@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Palitinhos</string>
+    <string name="titulo_escolha_usuario">Seus palitinhos</string>
+    <string name="titulo_escolha_cpu">Palitinhos do adversário</string>
+    <string name="titulo_resultado">Resultado</string>
+    <string name="total_palitinhos"></string>
+    <string name="escolha_cpu"></string>
+    <string name="botao">Jogar</string>
+
+</resources>
