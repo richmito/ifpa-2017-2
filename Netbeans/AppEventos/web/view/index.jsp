@@ -6,14 +6,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Eventos</title>
+        <title>Hackaton</title>
+        <img src="img/IEPTB_PA.jpg" alt=""/>
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
         <div class="main">
             <div class="content left">
                 <fieldset>
-                    <legend>Consulta de Inscrições</legend>
+                    <legend>Inscritos</legend>
                     <table>
                         <thead>
                             <tr>

@@ -55,7 +55,7 @@ public final class cadastro_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("        <div class=\"main\">\n");
       out.write("            <div class=\"content left\">\n");
       out.write("                <fieldset>\n");
-      out.write("                    <legend>Faça sua Inscrição</legend>\n");
+      out.write("                    <legend>Inscreva-se</legend>\n");
       out.write("                    <form class=\"form-content\" method=\"POST\" action=\"../controller/controleCadastro.jsp\">\n");
       out.write("                        <div class=\"grupo\">\n");
       out.write("                            <label for=\"txt_nome\">Nome:</label>\n");
@@ -66,7 +66,7 @@ public final class cadastro_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                            <input type=\"text\" id=\"txt_idade\" name=\"idade\" />\n");
       out.write("                        </div> \n");
       out.write("                        <div class=\"grupo\">\n");
-      out.write("                            <label for=\"txt_sexo\">Sexo:</label>\n");
+      out.write("                            <label for=\"txt_sexo\">Gênero:</label>\n");
       out.write("                            <input type=\"text\" id=\"txt_sexo\" name=\"sexo\" />\n");
       out.write("                        </div> \n");
       out.write("                        <div class=\"grupo\">\n");
